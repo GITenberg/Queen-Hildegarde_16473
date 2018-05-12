@@ -1,0 +1,30 @@
+_repo: Queen-Hildegarde_16473
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 16473-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Young women -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Farm life -- Juvenile fiction'
+title: Queen Hildegarde
+url: http://www.gutenberg.org/ebooks/16473
